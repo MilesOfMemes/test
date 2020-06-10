@@ -1,0 +1,33 @@
+1.
+"true"
+
+
+2. 
+undefined, null, NaN, string, number, boolean
+
+
+3.
+obj2 = {...obj1};
+
+
+4. 
+function add = (number1,number2) =>  {
+	return number1 + number2;
+}
+
+
+5. 
+A runtime environment used primarily for javascript.
+
+
+6.
+employees.map(id){
+	return employee;
+}
+
+7.
+"Hi undefined"
+
+8.
+n/a
+
